@@ -1,8 +1,8 @@
 # Tinder clone built using React, NodeJS, Express, MongoDB
 
-The frontend is built using React, integrating custom components such as [React Tinder Card](https://github.com/3DJakob/react-tinder-card) to make this clone more realistic
+The frontend is built using React.js, integrating React components such as [React Tinder Card](https://github.com/3DJakob/react-tinder-card) to make this clone more realistic
 
-The backend uses Node.js runtime and utilizes Express to route user requests with custom API endpoints
+The backend uses Node.js runtime and utilizes Express.js to route user requests with specific API endpoints
 
 The user data is stored persistently using MongoDB and MongoClient is used to communicate with the database from the backend
 
